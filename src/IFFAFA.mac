@@ -1,0 +1,8 @@
+ROUTINE IFFAFA
+IFFAFA ; Fatura Pedido
+	; Seleciona Pedido
+		; Varre a global ^IFPED
+	; Fatura pedido ; Adição projeto 1 em 25/12/2015
+		; Envia nota fiscal para a SEFAZ
+	
+		
