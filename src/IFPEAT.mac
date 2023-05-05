@@ -1,0 +1,7 @@
+ROUTINE IFPEAT
+IFPEAT ; Cria pedido
+	; Seleciona os produtos
+	; Informa a quantidade
+	; Informa a data de recebimento
+	; Salva o pedido
+	; Gera o número de pedido
