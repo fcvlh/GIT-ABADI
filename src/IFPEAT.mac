@@ -1,7 +1,7 @@
 ROUTINE IFPEAT
 IFPEAT ; Cria pedido
-	; Seleciona os produtos
-	; Informa a quantidade
+	; Seleciona os produtos ; IRIS - Utilizar ResultSet
+	; Informa a quantidade ; IRIS - Tipificar as variáveis numéricas como inteiros
 	; Informa a data de recebimento
 	; Salva o pedido
 	; Gera o número de pedido
